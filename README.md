@@ -1,2 +1,2 @@
 # NUP98-KDM5A
-ode and figures used in the NUP98–KDM5A 2026 paper
+Code and figures used in the NUP98–KDM5A 2026 paper
